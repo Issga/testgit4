@@ -9,5 +9,6 @@ public class HelloGit {
         System.out.println("fix test");
         System.out.println("master test");
         System.out.println("master commit");
+        System.out.println("test push");
     }
 }
