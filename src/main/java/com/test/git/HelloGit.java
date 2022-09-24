@@ -5,5 +5,7 @@ public class HelloGit {
         System.out.println("helloGit");
         System.out.println("hello World");
         System.out.println("hello SG");
+        System.out.println("fix test");
+        System.out.println("master test");
     }
 }
